@@ -1,5 +1,5 @@
 # TAC-seq data analysis
-This repository contains the sequencing data analysis software for TAC-seq.
+This repository contains TAC-seq data analysis software.
 
 #### Requirements
 * Linux-based OS
